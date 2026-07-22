@@ -6,7 +6,10 @@ Este perfil combina proyectos tecnicos, herramientas personales y escritura refl
 
 ## Repos para visitar primero
 
-- [`portfolio-proyectos`](https://github.com/Hefestion1989/portfolio-proyectos): mapa publico de proyectos, herramientas y archivo editorial.
+- [Vitrina digital](https://hefestion1989.github.io/portfolio-proyectos/): mapa publico de proyectos, herramientas y archivo editorial.
+- [`tinta-viva`](https://github.com/Hefestion1989/tinta-viva): aplicacion de escritorio local-first para personajes, continuidad narrativa y escritura con LM Studio.
+- [`tinta-privada`](https://github.com/Hefestion1989/tinta-privada): entorno web local para escritura y roleplay con modelos locales.
+- [`portfolio-proyectos`](https://github.com/Hefestion1989/portfolio-proyectos): codigo fuente de la vitrina publica.
 - [`laboratorio-digital`](https://github.com/Hefestion1989/laboratorio-digital): base organizada de trabajo, prototipos, notas y materiales.
 - [`VeryCheck`](https://github.com/Hefestion1989/VeryCheck): verificador de hechos experimental con IA.
 - [`promptmaster-ai`](https://github.com/Hefestion1989/promptmaster-ai): herramienta avanzada para mejorar prompts con React/Gemini.
@@ -16,6 +19,7 @@ Este perfil combina proyectos tecnicos, herramientas personales y escritura refl
 ## Lineas de trabajo
 
 - IA aplicada a verificacion, escritura y productividad personal.
+- Aplicaciones locales y privadas para escritura creativa con modelos de lenguaje.
 - Interfaces simples para comunicarse mejor con modelos de IA.
 - Busqueda y organizacion de documentos.
 - Ensayos sobre conciencia, subjetividad artificial y tecnologia desde una mirada situada en Uruguay.
@@ -23,4 +27,4 @@ Este perfil combina proyectos tecnicos, herramientas personales y escritura refl
 ## Enlaces
 
 - [LinkedIn](https://www.linkedin.com/in/dami%C3%A1n-sebasti%C3%A1n-g%C3%B3mez/)
-- [Portfolio de proyectos](https://github.com/Hefestion1989/portfolio-proyectos)
+- [Portfolio de proyectos](https://hefestion1989.github.io/portfolio-proyectos/)
