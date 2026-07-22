@@ -7,6 +7,7 @@ Este perfil combina proyectos tecnicos, herramientas personales y escritura refl
 ## Repos para visitar primero
 
 - [Vitrina digital](https://hefestion1989.github.io/portfolio-proyectos/): mapa publico de proyectos, herramientas y archivo editorial.
+- [`mapa-comunitario`](https://github.com/Hefestion1989/mapa-comunitario): aplicacion abierta para conectar personas con recursos de salud mental, apoyo social, educacion, trabajo y emergencias en Uruguay.
 - [`tinta-viva`](https://github.com/Hefestion1989/tinta-viva): aplicacion de escritorio local-first para personajes, continuidad narrativa y escritura con LM Studio.
 - [`tinta-privada`](https://github.com/Hefestion1989/tinta-privada): entorno web local para escritura y roleplay con modelos locales.
 - [`portfolio-proyectos`](https://github.com/Hefestion1989/portfolio-proyectos): codigo fuente de la vitrina publica.
@@ -19,6 +20,7 @@ Este perfil combina proyectos tecnicos, herramientas personales y escritura refl
 ## Lineas de trabajo
 
 - IA aplicada a verificacion, escritura y productividad personal.
+- Herramientas comunitarias para facilitar el acceso a recursos y servicios.
 - Aplicaciones locales y privadas para escritura creativa con modelos de lenguaje.
 - Interfaces simples para comunicarse mejor con modelos de IA.
 - Busqueda y organizacion de documentos.
