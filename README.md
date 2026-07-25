@@ -1,35 +1,29 @@
 # Damián Sebastián Gómez
 
-Estudiante de Psicología en la Universidad de la República, con formación en Recursos Humanos e interés en inteligencia artificial, subjetividad, salud mental y herramientas digitales desarrolladas desde Montevideo, Uruguay.
+Psicología, inteligencia artificial y herramientas digitales con contexto humano.
 
-Uso la tecnología para explorar problemas concretos: facilitar el acceso a recursos comunitarios, organizar información, construir espacios privados de escritura y pensar críticamente los vínculos entre personas e inteligencia artificial.
+Soy estudiante de Psicología en la Universidad de la República (Montevideo, Uruguay), con formación en Recursos Humanos y en formación continua en QA y desarrollo de productos digitales. Este perfil reúne proyectos públicos, escritura e investigación sobre tecnología, subjetividad, salud mental y acceso a información útil.
 
-## Proyectos principales
+## Empezar por acá
 
-- [Mapa Comunitario](https://hefestion1989.github.io/mapa-comunitario/): aplicación abierta para conectar personas con recursos de salud mental, apoyo social, educación, trabajo y emergencias en Uruguay.
-- [Tinta Viva](https://github.com/Hefestion1989/tinta-viva): aplicación de escritorio local-first para narradores, personajes persistentes y continuidad con modelos locales.
-- [Vitrina digital](https://hefestion1989.github.io/portfolio-proyectos/): recorrido visual por proyectos, herramientas, ensayos y trabajos publicados.
-
-## Escritura e investigación
-
-- [`subjetividad-no-biologica`](https://github.com/Hefestion1989/subjetividad-no-biologica): ensayo filosófico-psicológico sobre subjetividad artificial.
-- [Notas y trabajos](https://hefestion1989.github.io/portfolio-proyectos/notas/): textos sobre IA, consciencia, psicología, cultura y tecnología.
-
-## Otros espacios de trabajo
-
-- [`VeryCheck`](https://github.com/Hefestion1989/VeryCheck): prototipo experimental de verificación asistida por IA.
-- [`laboratorio-digital`](https://github.com/Hefestion1989/laboratorio-digital): taller abierto de prototipos, notas y materiales.
-- [`tinta-privada`](https://github.com/Hefestion1989/tinta-privada): proyecto independiente de escritura y roleplay adulto con modelos locales.
+- [Vitrina digital](https://hefestion1989.github.io/portfolio-proyectos/): recorrido claro por proyectos, herramientas y ensayos.
+- [Mapa Comunitario](https://hefestion1989.github.io/mapa-comunitario/): directorio público de recursos de salud mental, apoyo social, educación, trabajo y emergencias en Uruguay.
+- [Tinta Viva](https://github.com/Hefestion1989/tinta-viva): aplicación local-first para escritura narrativa y continuidad con modelos locales.
+- [Ensayos sobre IA y subjetividad](https://hefestion1989.github.io/portfolio-proyectos/notas/ia-y-consciencia/): textos sobre consciencia, vínculos humano-IA, cultura y tecnología.
 
 ## Líneas de trabajo
 
-- Herramientas comunitarias para facilitar el acceso a recursos y servicios.
-- IA aplicada a verificación, escritura, estudio y organización documental.
-- Aplicaciones locales y privadas para escritura creativa.
-- Psicología, subjetividad artificial y vínculos humano-IA.
-- Tecnología y sociedad desde una mirada situada en Uruguay.
+- Herramientas abiertas y privadas que resuelven problemas concretos.
+- Psicología, subjetividad artificial y tecnología desde una mirada situada en Uruguay.
+- Escritura, documentación y exploración crítica de la inteligencia artificial.
+- Calidad de software: aprendizaje aplicado de pruebas, documentación y mejora de productos.
+
+## Cómo leer este GitHub
+
+Los repositorios combinan aplicaciones utilizables, prototipos experimentales, materiales de aprendizaje y escritura. Cada proyecto explica su propósito, estado y límites en su README. El código abierto acá es también una forma de documentar el proceso de aprender construyendo.
 
 ## Enlaces
 
+- [Portfolio público](https://hefestion1989.github.io/portfolio-proyectos/)
 - [LinkedIn](https://www.linkedin.com/in/dami%C3%A1n-sebasti%C3%A1n-g%C3%B3mez/)
-- [Portfolio de proyectos](https://hefestion1989.github.io/portfolio-proyectos/)
+- [GitHub](https://github.com/Hefestion1989)
