@@ -9,6 +9,7 @@ Soy estudiante de Psicología en la Universidad de la República (Montevideo, Ur
 - [Vitrina digital](https://hefestion1989.github.io/portfolio-proyectos/): recorrido claro por proyectos, herramientas y ensayos.
 - [Mapa Comunitario](https://hefestion1989.github.io/mapa-comunitario/): directorio público de recursos de salud mental, apoyo social, educación, trabajo y emergencias en Uruguay.
 - [Tinta Viva](https://github.com/Hefestion1989/tinta-viva): aplicación local-first para escritura narrativa y continuidad con modelos locales.
+- [Auditoría Local PC](https://hefestion1989.github.io/auditoria-local-pc/): herramienta abierta para Windows que genera un diagnóstico local de CPU, memoria, disco, batería y procesos, sin monitorear actividad personal ni enviar datos por red.
 - [Ensayos sobre IA y subjetividad](https://hefestion1989.github.io/portfolio-proyectos/notas/ia-y-consciencia/): textos sobre consciencia, vínculos humano-IA, cultura y tecnología.
 
 ## Líneas de trabajo
